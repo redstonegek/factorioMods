@@ -1,0 +1,12 @@
+{
+    "name": "miniSpidertron",
+    "version": "0.1",
+    "title": "mini Spidertrons",
+    "author": "me",
+    "description": "adds mini Spidertrons",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 0.4.1",
+        "lib"
+    ]
+}

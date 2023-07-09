@@ -1,0 +1,12 @@
+{
+    "name": "magic",
+    "version": "0.1",
+    "title": "magic",
+    "author": "me",
+    "description": "adds magic",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 0.4.1",
+        "lib"
+    ]
+}
