@@ -1,0 +1,12 @@
+{
+    "name": "space",
+    "version": "0.1",
+    "title": "space",
+    "author": "me",
+    "description": "adds more late game stuff, space stuff, and a end to the game",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 0.4.1",
+        "lib"
+    ]
+}

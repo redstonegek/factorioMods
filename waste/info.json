@@ -1,0 +1,12 @@
+{
+    "name": "waste",
+    "version": "0.1",
+    "title": "waste",
+    "author": "me",
+    "description": "adds waste products and recycling",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 0.4.1",
+        "lib"
+    ]
+}

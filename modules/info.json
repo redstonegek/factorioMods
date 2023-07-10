@@ -1,0 +1,12 @@
+{
+    "name": "modules",
+    "version": "0.1",
+    "title": "modules",
+    "author": "me",
+    "description": "adds modules",
+    "factorio_version": "1.1",
+    "dependencies": [
+        "base >= 0.4.1",
+        "lib"
+    ]
+}
