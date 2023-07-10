@@ -1,0 +1,2 @@
+-- add fleids
+-- use minis to automat farming
